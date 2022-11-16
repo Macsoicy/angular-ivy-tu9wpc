@@ -1,5 +1,8 @@
 p {
   font-family: Lato;
+  background-color: bisque;
+  display: flex;
+  justify-content: space-around;
   
-}
 
+}
